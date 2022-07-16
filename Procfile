@@ -1,0 +1,1 @@
+worker: ./node/bin/node main.js
